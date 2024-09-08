@@ -1,0 +1,19 @@
+.dealDetails {
+  background-color: #fff;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  margin-top: 10px;
+  text-align: left;
+}
+
+.dealDetails p {
+  margin: 8px 0;
+  font-size: 16px;
+}
+
+.statusCircle {
+  display: inline-block;
+  margin-left: 10px;
+  vertical-align: middle;
+}

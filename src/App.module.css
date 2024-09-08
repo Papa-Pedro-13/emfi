@@ -1,0 +1,17 @@
+.appContainer {
+  text-align: center;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+}
+
+.title {
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.loading {
+  font-size: 18px;
+  color: #666;
+}
